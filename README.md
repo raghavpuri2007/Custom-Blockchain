@@ -1,6 +1,6 @@
 # Java Blockchain Implementation 🔗
 
-A simple yet functional blockchain implementation in Java that demonstrates the core concepts of blockchain technology. This project serves as both an educational resource and a foundation for understanding how blockchains work.
+A simple yet functional blockchain implementation in Java that demonstrates the core concepts of blockchain technology.
 
 ---
 
